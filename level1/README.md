@@ -1,6 +1,10 @@
 # LEVEL 1 - amending a commit
 
-Amend adds content to the newest commit in the history of the current branch.
+Amend adds content to the newest commit in the history of the current branch - not the biggest *timey wimey* strangeness - yet
+
+![Tardis](/doctor-who-whovians-time-machine-the-tardis.jpg)
+
+
 
 **Typical case**
 
