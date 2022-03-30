@@ -12,6 +12,8 @@ The different mechanisms for working with history should only be used on private
 
 Assumptions for this article - you are familiar with git for creating (feature-) branches and viewing the history of these
 
+![Delorian](./car-road-asphalt-delorean.jpg)
+
 
 Please note that there are many ways of reaching a goal using git these examples are only that - examples.
 
