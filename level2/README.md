@@ -110,7 +110,7 @@ $ git rebase master
 ```
 
 ```
-master		---(A)--->(B)--->(C)--->(D)
+master      ---(A)--->(B)--->(C)--->(D)
                                        \
 feature*                                (K*)-->(L*)-->(M*)
 ```
@@ -135,8 +135,8 @@ $ git push --force-with-lease
 now your remote branch will be exactly like your local
 
 ```
-master		---(A)--->(B)--->(C)--->(D)
-		                                 \
+master      ---(A)--->(B)--->(C)--->(D)
+                                       \
 feature*                                (K*)-->(L*)-->(M*)
 ```
 
