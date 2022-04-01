@@ -1,6 +1,6 @@
 # Git time travel
 
-Demystifying git time travel - short demo for front end fan club.
+Demystifying git time travel - short demo for front end fan club at Trackunit.
 
 This article does not try to recommend any workflow - it is only showing the possibilities for re-writing history in a git repository.
 
